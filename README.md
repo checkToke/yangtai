@@ -25,5 +25,9 @@
 - **2024-09-10**: 益禾堂新增周二会员日领卷及优惠卷查询
 
 ---
+[![Star History Chart](https://api.star-history.com/svg?repos=checkToke/yangtai&type=Date)](https://star-history.com/#checkToke/yangtai)
 
-**有问题随时联系，感谢大家的支持！**
+
+
+
+
