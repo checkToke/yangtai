@@ -23,6 +23,7 @@
 - **2024-09-06**: 万达酒店掉登录，应该是无解了，用了微信的加密通道
 - **2024-09-10**: 霸王茶姬账号多的人（超过 10 个），每天多运行几次脚本，因为可能触发 IP 限制，运行间隔 2 小时以上
 - **2024-09-10**: 益禾堂新增周二会员日领卷及优惠卷查询
+- **2024-09-12**: 引入了请求重试的模块，大家装一下依赖【axios-retry】
 
 ---
 [![Star History Chart](https://api.star-history.com/svg?repos=checkToke/yangtai&type=Date)](https://star-history.com/#checkToke/yangtai)
