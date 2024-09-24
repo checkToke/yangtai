@@ -40,6 +40,7 @@
 - **2024-09-12**: 引入了请求重试的模块，大家装一下依赖【axios-retry】
 - **2024-09-18**: 华住会新版本签到
 - **2024-09-23**: 益禾堂第一波上车的 已经有种树成功了 脚本加了是否自动施肥的环境变量，已经默认不自动施肥了，看看肥料能不能攒下来，种树成功的手动兑换，兑换成功后有效期七天
+- **2024-09-24**: 益禾堂第一波上车的 去掉是否自动施肥的环境变量了，不兑换也可以积攒肥料，兑换成功后开始自动施肥
 
 ---
 [![Star History Chart](https://api.star-history.com/svg?repos=checkToke/yangtai&type=Date)](https://star-history.com/#checkToke/yangtai)
