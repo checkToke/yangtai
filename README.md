@@ -43,6 +43,7 @@
 - **2024-09-24**: 益禾堂第一波上车的 去掉是否自动施肥的环境变量了，不兑换也可以积攒肥料，兑换成功后开始自动施肥
 
 ---
+## 感谢你右上角的star🌟
 [![Star History Chart](https://api.star-history.com/svg?repos=checkToke/yangtai&type=Date)](https://star-history.com/#checkToke/yangtai)
 
 
