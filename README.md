@@ -4,7 +4,7 @@
 
 ### 使用说明
 用青龙有问题的可以上车，车上跑的就是仓库中的脚本，没有任何不同。  
-**链接**： [上车地址](https://checktoke.filegear-sg.me/bus)  
+**链接**： [上车地址](https://bus.yxrong.cn)  
 **链接**： [tg群](https://t.me/+EkWsEK1Btx41NzY0)  
 日志正常即上车成功，请不要重复提交。
 
